@@ -156,7 +156,7 @@ export default function Home() {
           <div className="text-center mb-12">
             <h2 className="text-gray-500 text-3xl font-bold mb-4">About Us</h2>
             <p className="text-gray-600 max-w-2xl mx-auto">
-              Crafting exceptional spaces since 2010
+              Crafting exceptional spaces for you.
             </p>
           </div>
           <div className="flex flex-col md:flex-row gap-12 items-center">
